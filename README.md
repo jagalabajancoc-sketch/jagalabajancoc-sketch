@@ -5,7 +5,7 @@
 </div>
 <div align="center">
   <a href="https://web.facebook.com/profile.php?id=61593620894283" target="_blank" rel="noopener noreferrer">facebook</a> | 
-  <a href="[https://your-portfolio-link.com](https://www.jazdybuilds.site/#home)" target="_blank" rel="noopener noreferrer">portfolio</a> | 
+  <a href="https://www.jazdybuilds.site/#home" target="_blank" rel="noopener noreferrer">portfolio</a> | 
   <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">linkedin</a>
 </div>
 
