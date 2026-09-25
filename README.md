@@ -30,9 +30,6 @@ I am a system developer based in Cagayan de Oro City, Philippines. I specialize 
 - Developing a multi-page website for a local barangay government
 - Exploring hosting options for personal projects
 
-- **[Project Name](#)** — one-line description
--->
----
 
 <div align="center">
 
