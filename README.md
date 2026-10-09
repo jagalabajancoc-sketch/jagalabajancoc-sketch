@@ -13,7 +13,7 @@
 
 ### about
 
-I am a system developer based in Cagayan de Oro City, Philippines. I specialize in building websites and application, focusing on clean structure and straightforward code.
+I am a system developer based in Cagayan de Oro City, Philippines. I specialize in building websites and mobile applications, focusing on clean structure and straightforward code.
 
 ### work with
 
